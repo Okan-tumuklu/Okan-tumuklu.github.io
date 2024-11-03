@@ -1,11 +1,13 @@
 ---
 layout: page
-title: About
+title: Bu blog neden kuruldu?
 permalink: /about/
 ---
 
-Herkese merhaba arkadaşlar,
+Herkese Merhaba!
 
-Bu sayfa'da zero to hero serisine başlıyorum, amacım öğrenirken öğretmek.
+Ben, YouTube içerikleri üreten bir genç olarak sizlerle birlikteyim. Siber güvenlik alanına olan ilgim, beni Red Team alt dalında kendimi geliştirmeye yönlendirdi. Bu blog sayfası, yolculuğumun bir parçası olacak; "sıfırdan kahramana" hikayemizi birlikte yazacağız.
 
-Hayırlı günler dilerim...
+Burada paylaşacağım her içerik, araştırmalarımın ve öğrendiklerimin birer yansıması olacak. Hedefim, bu alanda ilerlemek ve birlikte öğrenmek. Her adımda, sizi bu yolculuğa davet ediyor, beraber büyümeyi amaçlıyorum.
+
+Hazırsanız, sıfırdan başlayarak güvenlik dünyasında nasıl kahraman olabileceğimizi keşfetmeye başlayalım!
