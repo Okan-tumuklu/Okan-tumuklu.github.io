@@ -4,18 +4,3 @@
 
 layout: home
 ---
-
-# {{ site.title }}
-
-{{ site.description }}
-
-{% assign categories = "linux" | split: "," %}
-
-{% for category in categories %}
-## {{ category | capitalize }}
-
-{% for post in site.categories[category] %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%Y-%m-%d" }}
-{% endfor %}
-
-{% endfor %}
