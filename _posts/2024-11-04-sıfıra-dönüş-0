@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Sıfıra dönüş"
+date:   2024-11-04 20:54 +0300
+categories: start
+tags:
+  -hack
+  -hacker
+  -siber güvenlik
+  -cybersecurty
+  -sıfırdan kahramanlığa
+---
+
+#SIFIRA DÖNÜŞ
+
+Merhaba dostlar,
+
+Sanırım kabul etmem gerekiyor, ama neyi? Eksik ve yetersiz olduğumu. Kendimi geliştirmeye çalışırken, karşıma sürekli bilmediğim veya eksik olduğum temel konular çıkıyor ve bu da hevesimi kırıyor.
+
+O halde her şeye yeniden başlamalıyım. Ancak bu süreç bir döngüye dönüşmeye başladı ve bu döngüde sıkışıp kalmak istemiyorum. Öğrendiklerimi düzenli olarak not alarak ve ilerlememi kaydederek daha sistemli bir yol izlemem gerektiğine karar verdim. Bu yüzden, bu blogda kendi notlarımı paylaşarak sıfırdan zirveye uzanan bir yolculuğun hikayesini anlatmak istiyorum. Yani, bir "Red Team" uzmanının veya bir hacker’ın nasıl geliştiğini adım adım göreceksiniz.
+
+### Peki, nereden başlamalıyım?
+Bu soruyu defalarca sordum ve derinlemesine araştırmalara başladım.
+
+Çeşitli yol haritalarını inceledim, birçok makale okudum ve uzmanların hazırladığı videoları izledim. İşte ilham aldığım bazı kaynaklar:
+
+[Roadmap sh](https://roadmap.sh/cyber-security)
+Bu kaynak, temel IT becerilerimi geliştirdikten sonra Linux ve ardından network bilgisini öğrenmem gerektiğini söylüyor.
+
+[Red team yol haritası](https://xmind.app/m/9Zcnkq/)
+Bu haritada, önce network bilgisinin ardından Linux öğrenmem gerektiği belirtiliyor.
+
+[THE CYBER MENTOR](https://youtu.be/e82g80Kzg4k)
+
+"The Cyber Mentor" adlı bu video, temel bilgisayar kullanımı, Network+ sertifikası seviyesinde network bilgisi ve Linux konularını işliyor.
+
+ve nice kaynaklar....
+
+Sonrasında bu kaynakları mantıklı bir şekilde değerlendirdim. Tüm eğitimlerin odaklandığı iki temel kavram var: network ve Linux. Peki, hangisinden başlamalıyım? Bu konuda ek bir araştırma yapmadım, ancak mantık yürüterek şu sonuca vardım: network kurmak, network servislerini yönetmek ve araştırma yapabilmek için öncelikle bilgisayarı kullanmayı bilmem gerekiyor. Bu da işletim sistemi bilgisi demek. Yani, ilk adım olarak Linux’u öğrenmeliyim.
+
+###Peki, Linux’a hangi kaynaklardan başlayabilirim?
+
+Bu konuda dikkatimi çeken iki büyük kaynak var:
+
+[LinuxJourney](https://linuxjourney.com/)
+Bu site oldukça pratik bir öğrenme yolu sunuyor ve hızlı bir başlangıç yapmam için ideal.
+
+[linuxdersleri.net](https://www.linuxdersleri.net/)
+Bu Türkçe kaynak ise daha ayrıntılı bir eğitim sağlıyor, fakat hızlı ilerlemek istediğim için öncelikli olarak Linux Journey ile devam edeceğim.
+
+Bugün, USB belleğime bir Linux kurulumu yaparak bu yolculuğa başlıyorum.
+
+Herkese iyi akşamlar.
